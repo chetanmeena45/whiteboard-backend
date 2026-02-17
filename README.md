@@ -96,7 +96,15 @@ Entities include **Users, Boards, and Notes**, showcasing one‑to‑many and ma
 - Lombok annotations for concise, recruiter‑friendly entities.
 - Hibernate auto‑table creation (no manual SQL required).
 
+## 🚀 Future Improvements
+- **Deployment**: Host the backend on Render/Heroku/Railway for easy access without local setup.
+- **Authentication**: Add JWT-based login and role management for secure collaboration.
+- **Real-time Collaboration**: Integrate WebSocket or STOMP for live updates on boards and notes.
+- **Frontend Integration**: Connect with a React/Angular frontend for a complete whiteboard experience.
+- **Testing**: Implement unit and integration tests with JUnit and Mockito.
+
 ## 👨‍💻 Author
 **Chetan Meena**  
 B.Tech CSE (Data Science), OIST Bhopal — Graduating 2026  
 Focused on backend engineering, workflow optimization, and reproducible project scaffolding.
+
